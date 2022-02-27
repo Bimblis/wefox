@@ -1,0 +1,6 @@
+{
+    "categories": ["newItems", "exclusiveItems", "offerItems"],
+    "ages": ["4+", "6+", "9+"],
+    "languages": ["en-us", "es-es"],
+    "prices": ["0-25", "25-50"]
+}
